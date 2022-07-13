@@ -1,1 +1,2 @@
 This is my from command line 
+Новое измениение в файле
